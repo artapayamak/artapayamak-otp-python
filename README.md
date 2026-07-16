@@ -25,7 +25,7 @@ IPPANEL_API_TOKEN=your_api_token_here
 Example
 Main example file:
 
--`send_otp.py`
+`send_otp.py`
 
 ## Security Note
 Do not hardcode your real API token in source code.
