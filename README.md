@@ -1,38 +1,10 @@
-# ArtaPayamak Python OTP Example
+ارسال پیامک OTP با پایتون - آرتا پیامک
+این ریپازیتوری شامل یک نمونه کد ساده و بهینه برای ارسال پیامک اعتبارسنجی (OTP) با استفاده از وب‌سرویس پیامکی آرتا پیامک است. ما از API قدرتمند IPPanel Edge استفاده کرده‌ایم تا پیامک‌های شما با بالاترین سرعت و ضریب تحویل (Delivery Rate) ارسال شوند.
 
-Python example for sending OTP SMS via IPPanel Edge API In Artapayamak.
+چرا آرتا پیامک؟
+آرتا پیامک ارائه دهنده تخصصی وب‌سرویس‌های پیامکی برای کسب‌وکارهای مدرن است. با استفاده از APIهای ما، شما به ابزارهای زیر دسترسی خواهید داشت:
 
-## About
-
-This repository shows a simple example of sending OTP SMS using Python `requests` and IPPanel Edge API.
-
-Website: https://artapayamak.com
-
-## Requirements
-
-- Python 3.8+
-- `requests` library
-
-To install requirements:
-```bash
-pip install requests
-```
-## Setup
-Add your API token to `.env`:
-```env
-IPPANEL_API_TOKEN=your_api_token_here
-```
-Example
-Main example file:
-
-`send_otp.py`
-
-## Security Note
-Do not hardcode your real API token in source code.
-
-Use environment variables instead.
-
-## Documentation
-For full API documentation, visit:
-
-https://artapayamak.com
+ارسال پیامک‌های خدماتی (Pattern) برای OTP
+گزارش‌گیری دقیق وضعیت ارسال (Delivery Status)
+پنل مدیریت کاربران و دفترچه تلفن پیشرفته
+پشتیبانی از پروتکل‌های REST و SOAP
